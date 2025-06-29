@@ -11,6 +11,7 @@
 *DURATION*:- 4 WEEKS
 
 *MENTOR*:- NEELA SANTOSH
+
 ** What We Did:
 Developed a fully responsive weather information webpage where users can search for any city to get live weather data such as temperature, humidity, and condition. This was achieved by connecting the frontend directly to the OpenWeatherMap API.
 
